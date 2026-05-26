@@ -1,0 +1,15 @@
+{
+	"name": "SunilADFKumar",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "02ec6c11-642b-470c-92ce-a534f5a86b91",
+		"tenantId": "2657aa5c-55c3-4e3f-ba9b-6ceb7fa978d5"
+	}
+}
